@@ -1,9 +1,3 @@
-<h1 align="center">
-<img src="mockup-template-rest-countries.png" alt="rest-countries-challenge">
-<br>
-Rest countries challenge Mova
-</h1>
-
 ### 🚩 O desafio
 
 Integrar a API sugerida e mostrar dados dos países como proposto nos designs.
